@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\schoolmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\schoolmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\sures\\onedrive\\desktop\\intern\\veduit\\module2api\\schoolmanagementapi\\schoolmanagementapi\\migrations\\20250515005647_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5DD5ED-DCE3-415B-A307-8131F689FC5D}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\migrations\\20250515005647_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 237,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250515005647_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Migrations\\20250515005647_Initial.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Migrations\\20250515005647_Initial.cs",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Migrations\\20250515005647_Initial.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Migrations\\20250515005647_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:56:47.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:41:56.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\appsettings.json",
+              "RelativeToolTip": "SchoolManagementAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T00:38:59.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Program.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:36:54.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:35:34.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\AppDbContext.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:32:54.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:31:04.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\sures\\OneDrive\\Desktop\\INTERN\\VeduIT\\Module2API\\SchoolManagementAPI\\SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "RelativeToolTip": "SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T16:30:27.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

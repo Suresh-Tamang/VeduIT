@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\views\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\views\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|c:\\users\\sures\\source\\repos\\schoolmanagementapp\\schoolmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D401CF69-7A24-4D94-9491-0A6C749FC7E2}|SchoolManagementApp\\SchoolManagementApp.csproj|solutionrelative:schoolmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 237,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Views\\StudentController.cs",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagementApp\\Views\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:02:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T04:17:04.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T04:11:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Program.cs",
+              "RelativeToolTip": "SchoolManagementApp\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:00:14.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\appsettings.json",
+              "RelativeToolTip": "SchoolManagementApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T04:00:13.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "SchoolManagementApp\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:59:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "SchoolManagementApp\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:59:18.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "SchoolManagementApp\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:59:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagementApp\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:57:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SchoolManagementApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:52:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SchoolManagementApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sures\\source\\repos\\SchoolManagementApp\\SchoolManagementApp\\Models\\User.cs",
+              "RelativeToolTip": "SchoolManagementApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:51:17.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
